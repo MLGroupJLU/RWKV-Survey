@@ -55,9 +55,33 @@ Related projects:
 
 ## RWKV
 
+1. RWKV: Reinventing RNNs for the Transformer Era 2023.[[paper](https://arxiv.org/abs/2305.13048)]
+2. Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence 2024. [[paper](https://arxiv.org/abs/2404.05892)]
+3. RWKV official repositorie [[project](https://github.com/BlinkDL/RWKV-LM)]
 
 ## Applications of the RWKV model
 ### Natural Language Generation
+
+1. Combining information retrieval and large language models for a chatbot that generates reliable, natural-style answers. [[paper](https://ceur-ws.org/Vol-3630/LWDA2023-paper27.pdf)]
+2. AI-Writer [[project](https://github.com/BlinkDL/AI-Writer)]
+3. RWKV chatbot [[project](https://github.com/harrisonvanderbyl/rwkv_chatbot)]
+4. RWKV wechat bot [[project](https://github.com/averyyan/RWKV-wechat-bot)]
+5. RWKV chat command line [[project](https://github.com/az13js/rwkv_chat_command_line)]
+6. A QQ Chatbot based on RWKV [[project](https://github.com/cryscan/eloise)]
+7. Local lightweight chat AI based on RWKV [[project](https://github.com/bilibini/Meow-AI)]
+8. Espritchatbot RASA RWKV [[project](https://github.com/kimou6055/Espritchatbot-RASA-RWKV)]
+9. Espritchatbot RASA RAVEN [[project](https://github.com/karim-aloulou/Espitchatbot-RASA-RAVEN)]
+10. RAG system for RWKV [[project](https://github.com/AIIRWKV/RWKV-RAG)]
+11. ChatRWKV in wechat [[project](https://github.com/MrTom34/ChatRWKV-in-wechat-Version-1)]
+12. Generating WeChat replies using the RWKV runner [[project](https://github.com/LeoLin4258/Infofusion)]
+13. RWKV-Drama [[project](https://github.com/ms-KuroNeko/RWKV-Drama)]
+14. RWKV Role Playing with GPT SoVITS [[project](https://github.com/v3ucn/RWKV_Role_Playing_with_GPT-SoVITS)]
+15. A Telegram LLM bot [[project](https://github.com/spion/notgpt)]
+16. Chatbots based on nonebot and RWKV [[project](https://github.com/123summertime/ykkz)]
+17. Online chat rooms based on PyWebIO and RWKV models [[project](https://github.com/No-22-Github/Easy_RWKV_webui)]
+18. Android RWKV MIDI [[project](https://github.com/ZTMIDGO/Android-RWKV-MIDI)]
+19. Use RWKV to generate symbolic music to a text file. [[project](https://github.com/patchbanks/RWKV-v4-MIDI)]
+20. Use the RWKV-4 music model to generate the texture and music [[project](https://github.com/agreene5/Procedural-Purgatory)]
 
 ### Natural Language Understanding
 
