@@ -85,6 +85,18 @@ Related projects:
 
 ### Natural Language Understanding
 
+1. An approach to mongolian neural machine translation based on rwkv language model and contrastive learning [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_25)]
+2. Onlysportslm: Optimizing sports-domain language models with sota performance under billion parameters [[paper](https://arxiv.org/abs/2409.00286)]
+3. Virtual Assistant [[project](https://github.com/samttoo22-MewCat/lala_rwkv_chatbot_2.0)]
+4. PDF Query Systems [[project](https://github.com/ck-unifr/pdf_parsing)]
+5. A classification model using RWKV [[project](https://github.com/yynil/RWKV-Classification)]
+6. Novel continuation model based on RWKV [[project](https://github.com/jiawanfan-yyds/novel-rwkv_demo)]
+7. A large ai town built on RWKV [[project](https://github.com/recursal/ai-town-rwkv-proxy)]
+8. Questions and Answers based on RWKV [[project](https://github.com/seitzquest/RavenWhisperer)]
+9. RWKV using wenda to QA and ICL [[project](https://github.com/xiaol/wenda-RWKV)]
+10. A comprehensive mobile application based on RWKV [[project](https://github.com/khhaliil/AVATARIO)]
+11. Knowledge graph extraction tool based on RWKV [[project](https://github.com/Ojiyumm/rwkv_kg)]
+
 ### Other NLP tasks
 
 ### Computer Vision
