@@ -30,7 +30,7 @@ Related projects:
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#news-and-updates">News and Updates</a></li>
-    <li><a href="RWKV">RWKV</a></li>
+    <li><a href="#RWKV">RWKV</a></li>
     <li>
       <a href="#applications">Applications of the RWKV model</a>
       <ul>
