@@ -74,6 +74,24 @@ Related projects:
 
 ## Contributing
 
+We welcome contributions to RWKV-survey! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch with your changes.
+3. Submit a pull request with a clear description of your changes.
+
+You can also open an issue if you have anything to add or comment.
+
 ## Citation
+
+If you find this project useful in your research or work, please consider citing it:
+```
+@article{li2024survey,
+      title={A Survey of RWKV}, 
+      author={Li, Zhiyuan and Xia, Tingyu and Chang, Yi and Wu, Yuan},
+      journal={arXiv preprint arXiv:XXXX},
+      year={2024}
+}
+```
 
 ## Acknowledgements
