@@ -99,6 +99,9 @@ Related projects:
 
 ### Other NLP tasks
 
+1. Multi-scale rwkv with 2-dimensional temporal convolutional network for short-term photovoltaic power forecasting [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0360544224028433)]
+2. Contrastive learning for clinical outcome prediction with partial data sources [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326519/)]
+
 ### Computer Vision
 
 ### Web Application
