@@ -32,14 +32,14 @@ Related projects:
     <li><a href="#news-and-updates">News and Updates</a></li>
     <li><a href="#RWKV">RWKV</a></li>
     <li>
-      <a href="#applications">Applications of the RWKV model</a>
+      <a href="#applications-of-the-rwkv-model">Applications of the RWKV model</a>
       <ul>
-        <li><a href="#nlg">Natural Language Generation</a></li>
-        <li><a href="#nlu">Natural Language Understanding</a></li>
+        <li><a href="#natural-language-generation">Natural Language Generation</a></li>
+        <li><a href="#natural-language-understanding">Natural Language Understanding</a></li>
         <li><a href="#other-nlp-tasks">Other NLP tasks</a></li>
-        <li><a href="#cv">Computer Vision</a></li>
+        <li><a href="#computer-vision">Computer Vision</a></li>
         <li><a href="#web-application">Web Application</a></li>
-        <li><a href="#evaluation">Evaluation of RWKV Models</a></li>
+        <li><a href="#evaluation-of-rwkv-models">Evaluation of RWKV Models</a></li>
         <li><a href="#others">Others</a></li>
       </ul>
     </li>
