@@ -164,6 +164,30 @@ Related projects:
 
 ### Evaluation of RWKV Models
 
+In this paper, we have assembled 17 benchmark tests, each highlighting distinct facets and criteria for evaluation.
+
+**NOTE:** We may miss some evaluations. Your suggestions are highly welcomed!
+
+| Benchmark   | Focus                              |
+|-------------|------------------------------------|
+|BIPIA [[paper](https://arxiv.org/abs/2312.14197)] |Indirect prompt injection attacks|
+|CoDI-Eval [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29734)] |The capability of LLMs to respond to the constraints in instructions.|
+|CMATH [[paper](https://arxiv.org/abs/2306.16636)] |Mathematical problem solving|
+|VasE [[paper](https://arxiv.org/abs/2312.03121)] |Evaluation through voting theory framework|
+|Head-to-Tail [[paper](https://arxiv.org/abs/2308.10168)] |Assess the ability of LLMs to internalize facts|
+|REGBENCH [[paper](https://arxiv.org/abs/2401.12973)] |In-context Language Learning(ICLL)|
+|Freshbench [[paper](https://arxiv.org/abs/2405.08460)] |A dynamic assessment framework for temporal generalisation|
+|LongctxBench [[paper](https://arxiv.org/abs/2407.01527)] |Efficiency in handling long contexts|
+|LongICLBench [[paper](https://arxiv.org/abs/2404.02060)] |Benchmark for extreme-label classification in long contexts|
+|LooGLE [[paper](https://arxiv.org/abs/2311.04939)] |Benchmark for long-dependency understanding.|
+|MAGNIFICO [[paper](https://arxiv.org/abs/2310.11634)] |Learning new interpretations in-context.|
+|MANGO [[paper](https://arxiv.org/abs/2403.19913)] |Benchmark for mapping and navigation capabilities.|
+|PRE [[paper](https://arxiv.org/abs/2401.15641)] |Evaluation framework inspired by academic peer review.|
+|RULER [[paper](https://arxiv.org/abs/2404.06654)] |Enhanced benchmark for long-context evaluations extending the NIAH test.|
+|S3EVAL [[paper](https://arxiv.org/abs/2310.15147)] |Flexible evaluation method using complex synthetic tasks.|
+|SuperCLUE [[paper](https://arxiv.org/abs/2307.15020)] |Comprehensive benchmark for Chinese user preferences.|
+|Zhujiu [[paper](https://arxiv.org/abs/2308.14353)] |Multi-dimensional evaluation benchmark for Chinese LLMs.|
+
 ### Others
 
 1. Advancing vad systems based on multi-task learning with improved model structures [[paper](https://arxiv.org/abs/2312.14860)]
