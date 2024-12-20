@@ -17,7 +17,7 @@
 
 # Papers and resources for RWKV
 
-The papers are organized according to our survey: [A Survey of RWKV](). 
+The papers are organized according to our survey: [A Survey of RWKV](https://arxiv.org/abs/2412.14847). 
 
 **NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in <a href="#acknowledgements">acknowledgements</a>.
 
@@ -51,7 +51,7 @@ Related projects:
 
 ## News and updates
 
-- [XX/XX/2024] The first version of the paper is released on arXiv: [A Survey of RWKV]().
+- [19/12/2024] The first version of the paper is released on arXiv: [A Survey of RWKV](https://arxiv.org/abs/2412.14847).
 
 ## RWKV
 
@@ -101,6 +101,25 @@ Related projects:
 
 1. Multi-scale rwkv with 2-dimensional temporal convolutional network for short-term photovoltaic power forecasting [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0360544224028433)]
 2. Contrastive learning for clinical outcome prediction with partial data sources [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326519/)]
+3. Stock prediction using RWKV [[project](https://github.com/tomer9080/Stock-Prediction-Using-RWKV)]
+4. Dft: A dual-branch framework of fluctuation and trend for stock price prediction [[paper](https://arxiv.org/abs/2411.06065)]
+5. Matcc: A novel approach for robust stock price prediction incorporating market trends and cross-time correlations [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679715)]
+6. A code completion model based rwkv with bimodal pretraining [[paper](https://www.researchsquare.com/article/rs-3387525/v1)]
+7. Rwkv-based encoder-decoder model for code completion [[paper](https://ieeexplore.ieee.org/abstract/document/10442108/)]
+8. Experimentation in content moderation using rwkv [[paper](https://arxiv.org/abs/2409.03939)]
+9. Goldfinch: High performance rwkv/transformer hybrid with linear pre-fill and extreme kv-cache compression [[paper](https://arxiv.org/abs/2407.12077)]
+10. Rwkv-ts: Beyond traditional recurrent neural network for time series tasks [[paper](https://arxiv.org/abs/2401.09093)]
+11. Temporal and interactive modeling for efficient human-human motion generation [[paper](https://arxiv.org/abs/2408.17135)]
+12. Rrwkv: capturing long-range dependencies in rwkv [[paper](https://arxiv.org/abs/2306.05176)]
+13. Lkpnr: Large language models and knowledge graph for personalized news recommendation framework [[paper](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15462218&AN=178256380&h=mPC2JIgqSZw4phTzIrP%2FKqjs9uCWP6JzGqQAI5ecEQmASbdVuYmY%2BQ17K27Xqqb%2BBbDDdbl%2F6scZRZNvhqBfCg%3D%3D&crl=c)]
+14. Why perturbing symbolic music is necessary: Fitting the distribution of never-used notes through a joint probabilistic diffusion model [[paper](https://arxiv.org/abs/2408.01950)]
+15. Optimizing robotic manipulation with decision-rwkv: A recurrent sequence modeling approach for lifelong learning [[paper](https://arxiv.org/abs/2408.01950)]
+16. Prosg: Using prompt synthetic gradients to alleviate prompt forgetting of rnn-like language models [[paper](https://arxiv.org/abs/2311.01981)]
+17. Spikegpt: Generative pre-trained language model with spiking neural networks [[paper](https://arxiv.org/abs/2302.13939)]
+18. General population projection model with census population data [[paper](https://scholarworks.lib.csusb.edu/etd/1803/)]
+19. Enhancing transformer rnns with multiple temporal perspectives [[paper](https://arxiv.org/abs/2402.02625)]
+20. Sensorimotor attention and language-based regressions in shared latent variables for integrating robot motion learning and llm [[paper](https://arxiv.org/abs/2407.09044)]
+21. A transfer learning-based training approach for dga classification [[paper](https://link.springer.com/chapter/10.1007/978-3-031-64171-8_20)]
 
 ### Computer Vision
 
@@ -128,9 +147,10 @@ If you find this project useful in your research or work, please consider citing
 @article{li2024survey,
       title={A Survey of RWKV}, 
       author={Li, Zhiyuan and Xia, Tingyu and Chang, Yi and Wu, Yuan},
-      journal={arXiv preprint arXiv:XXXX},
+      journal={arXiv preprint arXiv:2412.14847},
       year={2024}
 }
+
 ```
 
 ## Acknowledgements
