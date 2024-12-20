@@ -123,6 +123,27 @@ Related projects:
 
 ### Computer Vision
 
+1. Bsbp-rwkv: Background suppression with boundary preservation for efficient medical image segmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681033)]
+2. Restore-rwkv: Efficient and effective medical image restoration with rwkv [[paper](https://arxiv.org/abs/2407.11087)]
+3. Rnn-based multiple instance learning for the classification of histopathology whole slide images [[paper](https://link.springer.com/chapter/10.1007/978-981-97-1335-6_29)]
+4. Lion: Linear group rnn for 3d object detection in point clouds [[paper](https://arxiv.org/abs/2407.18232)]
+5. Pointrwkv: Efficient rwkv-like model for hierarchical point cloud learning [[paper](https://arxiv.org/abs/2405.15214)]
+6. Occrwkv: Rethinking efficient 3d semantic occupancy prediction with linear complexity [[paper](https://arxiv.org/abs/2409.19987)]
+7. Tls-rwkv: Real-time online action detection with temporal label smoothing [[paper](https://link.springer.com/article/10.1007/s11063-024-11540-0)]
+8. From explicit rules to implicit reasoning in an interpretable violence monitoring system [[paper](https://arxiv.org/abs/2410.21991)]
+9. Hybrid recurrent-attentive neural network for onboard predictive hyperspectral image compression [[paper](https://ieeexplore.ieee.org/abstract/document/10641584/)]
+10. Mamba or rwkv: Exploring high-quality and high-efficiency segment anything model [[paper](https://arxiv.org/abs/2406.19369)]
+11. Vision-rwkv: Efficient and scalable visual perception with rwkv-like architectures [[paper](https://arxiv.org/abs/2403.02308)]
+12. Visualrwkv-hd and uhd: Advancing high-resolution processing for visual language models [[paper](https://arxiv.org/abs/2410.11665)]
+13. Video rwkv: Video action recognition based rwkv [[paper](https://arxiv.org/abs/2411.05636)]
+14. Rwkv-clip: A robust vision-language representation learner [[paper](https://arxiv.org/abs/2406.06973)]
+15. Sdit: Spiking diffusion model with transformer [[paper](https://arxiv.org/abs/2402.11588)]
+16. Social-cvae: Pedestrian trajectory prediction using conditional variational auto-encoder [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_36)]
+17. Diffusion-rwkv: Scaling rwkv-like architectures for diffusion models [[paper](https://arxiv.org/abs/2404.04478)]
+18. Exploring real&synthetic dataset and linear attention in image restoration [[paper](https://arxiv.org/abs/2412.03814)]
+19. Facial Expression Recognition with RWKV Architecture [[project](https://github.com/lukasVierling/FaceRWKV)]
+20. Image denoising model based on rwkv [[project](https://github.com/lll143653/rwkv-denoise)]
+
 ### Web Application
 
 ### Evaluation of RWKV Models
