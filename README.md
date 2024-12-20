@@ -146,10 +146,27 @@ Related projects:
 
 ### Web Application
 
+1. Web api based on rwkv.cpp [[project](https://github.com/YuChuXi/MoZi-RWKV)]
+2. RWKV Webui GPT-SoVITS [[project](https://github.com/v3ucn/RWKV_3B_7B_Webui_GPT-SoVITS)]
+3. AI00 RWKV Server [[project](https://github.com/Ai00-X/ai00_server)]
+4. RWKV-4 running in the browser [[project](https://github.com/josephrocca/rwkv-v4-web)]
+5. Role-playing webui based on RWKV [[project](https://github.com/shengxia/RWKV_Role_Playing)]
+6. RWKV QQBot BackEnd [[project](https://github.com/yuunnn-w/RWKV_QQBot_BackEnd)]
+7. A axum web backend for web-rwkv [[project](https://github.com/Prunoideae/web-rwkv-axum)]
+8. ChatGPT-like Web UI for RWKVstic [[project](https://github.com/hizkifw/WebChatRWKVstic)]
+9. Use chatux to make chatRWKV a web chatbot [[project](https://github.com/riversun/chatux-server-rwkv)]
+10. Flask frame based chatbot server [[project](https://github.com/t4wefan/ChatRWKV-flask-api)]
+11. ChatRWKV webui [[project](https://github.com/StarDreamAndFeng/ChatRWKV-webui)]
+12. Flask server for RWKV [[project](https://github.com/RafaRed/RWKV-api)]
+13. rwkv.cpp webui Macos [[project](https://github.com/v3ucn/rwkv.cpp_webui_Macos)]
+14. rwkv.cpp webui GPT-SoVITS [[project](https://github.com/v3ucn/rwkv.cpp_webui_GPT-SoVITS)]
+15. RWKV Role Playing Web UI [[project](https://github.com/shengxia/RWKV_Role_Playing_UI)]
+
 ### Evaluation of RWKV Models
 
 ### Others
 
+1. 
 
 ## Contributing
 
