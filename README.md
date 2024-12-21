@@ -30,7 +30,12 @@ Related projects:
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#news-and-updates">News and Updates</a></li>
-    <li><a href="#RWKV">RWKV</a></li>
+    <li><a href="#rwkv">RWKV</a>
+      <ul>
+        <li><a href="#rwkv-papers-and-official-repositorie">RWKV papers and official repositorie</a></li>
+        <li><a href="#various-implementations">Various Implementations</a></li>
+      </ul>  
+    </li>
     <li>
       <a href="#applications-of-the-rwkv-model">Applications of the RWKV model</a>
       <ul>
@@ -55,9 +60,56 @@ Related projects:
 
 ## RWKV
 
+### RWKV papers and official repositorie
+
 1. RWKV: Reinventing RNNs for the Transformer Era 2023.[[paper](https://arxiv.org/abs/2305.13048)]
 2. Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence 2024. [[paper](https://arxiv.org/abs/2404.05892)]
 3. RWKV official repositorie [[project](https://github.com/BlinkDL/RWKV-LM)]
+
+### Various Implementations
+
+1. INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[project](https://github.com/RWKV/rwkv.cpp)]
+2. Inference a RWKV model in pure C [[project](https://github.com/kong13661/rwkv.c)]
+3. A torchless, c++ rwkv implementation using 8bit quantization [[project](https://github.com/harrisonvanderbyl/rwkv-cpp-accelerated)]
+4. RWKV model running on windows with C++ [[project](https://github.com/ZeldaHuang/rwkv-cpp-server)]
+5. RWKV tokenizer based on cpp [[project](https://github.com/szxysdt/rwkv_tokenizer_cpp)]
+6. Implementation of the RWKV language model in pure WebGPU/Rust [[project](https://github.com/cryscan/web-rwkv)]
+7. Rust implements RWKV [[project](https://github.com/mrsteyk/rwkvk-rs)]
+8. A fast RWKV Tokenizer written in Rust [[project](https://github.com/cahya-wirawan/rwkv-tokenizer)]
+9. Implementation of RWKV in Rust [[project](https://github.com/KerfuffleV2/smolrsrwkv)]
+10. An rust wrapper of rwkv-cpp [[project](https://github.com/yorkzero831/rwkv-rust)]
+11. RWKV ported to tensorflow [[project](https://github.com/RWKV/rwkv-tensorflow)]
+12. RWKV Tensorflow2.0 [[project](https://github.com/123mbcz123/RWKV5-Tensorflow2.0) [project](https://github.com/123mbcz123/RWKV-Tensorflow2.0) [project](https://github.com/breadbread1984/RWKV-tf2)]
+13. A TensorFlow implementation of the RWKV layer [[project](https://github.com/andvid72/Tensor-RWKV) [project](https://github.com/prouast/tensorflow-rwkv)]
+14. Tensorflow bindings for RWKV [[project](https://github.com/rj42/rwkv-cuda)]
+15. Port of the RWKV-LM model in Fortran [[project](https://github.com/nlpodyssey/rwkv.f90)]
+16. Implementation of RWKV in Julia [[project](https://github.com/guanyilun/rwkv.jl)]
+17. Minimal RWKV implementation in Zig [[project](https://github.com/metalwhale/rwkv.zig)]
+18. Implementation of RWKV in Go [[project](https://github.com/nlpodyssey/rwkv) [project](https://github.com/ZaraK0/rwkvalgorithm)]
+19. Pure go for rwkv and support cross-platform [[project](https://github.com/seasonjs/rwkv)]
+20. A go wrapper around the rwkv.cpp library [[project](https://github.com/donomii/go-rwkv.cpp)]
+21. VerbaFlow, a neural architecture written in Go designed specifically for language modeling tasks [[project](https://github.com/nlpodyssey/verbaflow)]
+22. RWKV World tokenizer for Go [[project](https://github.com/Ronsor/rwkv-tokenizer-go)]
+23. Implementation of RWKV in Keras [[project](https://github.com/pass-lin/RWKV6-Keras) [project](https://github.com/jackd/keras-rwkv)]
+24. The RWKV Language Model Inference on PaddlePaddle [[project](https://github.com/HighCWu/rwkv-paddle)]
+25. Paddle version RWKV-v2-RNN [[project](https://github.com/JunnYu/RWKV-v2-RNN-paddle)]
+26. TPU RWKV Implementations [[project](https://github.com/tensorpro/tpu_rwkv)]
+27. RWKV-LM in JAX and Haiku [[project](https://github.com/mrsteyk/RWKV-LM-jax)]
+28. A JAX implementation of the RWKV [[project](https://github.com/saran-gangster/rwkv-jax)]
+29. Node.js implementation binding for the RWKV.cpp module [[project](https://github.com/RWKV/RWKV-cpp-node)]
+30. Native Node.js tokenizer for RWKV [[project](https://github.com/RWKV/RWKV-tokenizer-node)]
+31. Implementation of RWKV using mlx [[project](https://github.com/dc-dc-dc/mlx-rwkv)]
+32. RWKV v5,v6 LoRA Trainer on Cuda and Rocm Platform [[project](https://github.com/OpenMOSE/RWKV5-LM-LoRA)]
+33. RWKV v5, v6 infctx LoRA trainer [[project](https://github.com/OpenMOSE/RWKV-infctx-trainer-LoRA)]
+34. RWKV Infinite Context trainer [[project](https://github.com/RWKV/RWKV-infctx-trainer)]
+35. A lightweight RWKV inference platform [[project](https://github.com/OpenMOSE/RWKV-Infer)]
+36. Run RWKV V4 ONNX using the Android cpu [[project](https://github.com/ZTMIDGO/RWKV-Android)]
+37. Infere RWKV on NCNN [[project](https://github.com/MollySophia/rwkv-ncnn)]
+38. Inference RWKV v5, v6 and (WIP) v7 with Qualcomm AI Engine Direct SDK [[project](https://github.com/MollySophia/rwkv-qualcomm)]
+39. JNI wrapper for rwkv.cpp [[project](https://github.com/vaccovecrana/rwkv.jni)]
+40. An RWKV6 operator designed for Keras3 [[project](https://github.com/infiy-quine/RWKV6_Keras_Operator)]
+41. An API based on Flask implementation of RWKV_Role_Playing project [[project](https://github.com/shengxia/RWKV_Role_Playing_API)]
+42. The nanoGPT-style implementation of RWKV Language Model [[project](https://github.com/Hannibal046/nanoRWKV)]
 
 ## Applications of the RWKV model
 ### Natural Language Generation
@@ -187,6 +239,19 @@ In this paper, we have assembled 17 benchmark tests, each highlighting distinct 
 |S3EVAL [[paper](https://arxiv.org/abs/2310.15147)] |Flexible evaluation method using complex synthetic tasks.|
 |SuperCLUE [[paper](https://arxiv.org/abs/2307.15020)] |Comprehensive benchmark for Chinese user preferences.|
 |Zhujiu [[paper](https://arxiv.org/abs/2308.14353)] |Multi-dimensional evaluation benchmark for Chinese LLMs.|
+
+**Other evaluations**
+1. Is attention required for icl? exploring the relationship between model architecture and in-context learning ability [[paper](https://openreview.net/forum?id=Qwq4cpLtoX)]
+2. Revenge of the fallen? recurrent models match transformers at predicting human language comprehension metrics [[paper](https://arxiv.org/abs/2404.19178)]
+3. Veliki jezikovni modeli so strojni ucenci v casu sklepanja [[paper](https://erk.fe.uni-lj.si/2023/papers/grm(veliki_jezikovni).pdf)]
+4. Benchmarking neural decoding backbones towards enhanced on-edge ibci applications [[paper](https://arxiv.org/abs/2406.06626)]
+5. Does transformer interpretability transfer to rnns? [[paper](https://arxiv.org/abs/2404.05971)]
+6. From words to numbers: Your large language model is secretly a capable regressor when given in-context examples [[paper](https://arxiv.org/abs/2404.07544)]
+7. How well can a long sequence model model long sequences? comparing architechtural inductive biases on long-context abilities [[paper](https://arxiv.org/abs/2407.08112)]
+8. LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding [[project](https://github.com/Ojiyumm/LongBench_RWKV)]
+9. Benchmark RWKV on Long Range Arena [[project](https://github.com/diggerdu/rwkv-long-range-arena)]
+10. Benchmark RWKV on MT-Bench [[project](https://github.com/Ojiyumm/MT_BENCH_RWKV)]
+11. Compare llms [[project](https://github.com/BiroAd/compare_llms)]
 
 ### Others
 
