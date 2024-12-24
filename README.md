@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>A SURVEY OF RWKV</h1>
+ <img src="imgs/logo.png" alt="RWKV Survey" width="500"><br>
   A collection of papers and resources related to a survey of RWKV.
 </div>
 <br>
