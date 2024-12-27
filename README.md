@@ -42,7 +42,7 @@ Related projects:
       <ul>
         <li><a href="#natural-language-generation">Natural Language Generation</a></li>
         <li><a href="#natural-language-understanding">Natural Language Understanding</a></li>
-        <li><a href="#other-nlp-tasks">Other NLP tasks</a></li>
+        <li><a href="#other-nlp-tasks">Other NLP Tasks</a></li>
         <li><a href="#computer-vision">Computer Vision</a></li>
         <li><a href="#audio-and-music-tasks">Audio and Music Tasks</a></li>
         <li><a href="#web-application">Web Application</a></li>
@@ -207,6 +207,7 @@ Related projects:
 8. RWKV Based Music Generator [[project](https://github.com/asuller/RWKV-MusicGenerator)]
 9. Music Genre Classification RWKV [[project](https://github.com/AverageJoe9/Music-Genre-Classification-RWKV)]
 10. Advancing vad systems based on multi-task learning with improved model structures [[paper](https://arxiv.org/abs/2312.14860)]
+11. RWKV-based speech translation, recognition, QA, and more [[project]](https://github.com/AGENDD/RWKV-SpeechChat)
 
 ### Web Application
 
