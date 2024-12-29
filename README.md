@@ -23,6 +23,7 @@ The papers are organized according to our survey: [A Survey of RWKV](https://arx
 
 Related projects:
 
+- RWKV-SpeechChat: [[A real-time dialogue script based on a frozen 3B RWKV model with trained adapters and initial states.](https://github.com/AGENDD/RWKV-SpeechChat)]
 - RWKV-IR: [[Exploring Real&Synthetic Dataset and Linear Attention in Image Restoration](https://arxiv.org/abs/2412.03814)]
 
 ![](imgs/framework_new.png)
@@ -207,7 +208,7 @@ Related projects:
 8. RWKV Based Music Generator [[project](https://github.com/asuller/RWKV-MusicGenerator)]
 9. Music Genre Classification RWKV [[project](https://github.com/AverageJoe9/Music-Genre-Classification-RWKV)]
 10. Advancing vad systems based on multi-task learning with improved model structures [[paper](https://arxiv.org/abs/2312.14860)]
-11. RWKV-based speech translation, recognition, QA, and more [[project]](https://github.com/AGENDD/RWKV-SpeechChat)
+11. A real-time dialogue script based on a frozen 3B RWKV model with trained adapters and initial states. [[project]](https://github.com/AGENDD/RWKV-SpeechChat)
 
 ### Web Application
 
@@ -269,11 +270,12 @@ In this paper, we have assembled 17 benchmark tests, each highlighting distinct 
 
 ### Others
 
+1. Generative calibration for in-context learning [[paper](https://arxiv.org/abs/2310.10266)]
 2. Spiking mixers for robust and energy-efficient vision-and-language learning [[paper](https://openreview.net/forum?id=FyZaVdQLdJ)]
 3. Visualrwkv: Exploring recurrent neural networks for visual language models [[paper](https://arxiv.org/abs/2406.13362)]
 4. A unified implicit attention formulation for gated-linear recurrent sequence models [[paper](https://arxiv.org/abs/2405.16504)]
 5. Modern sequence models in context of multi-agent reinforcement learning [[paper](https://epub.jku.at/obvulioa/urn/urn:nbn:at:at-ubl:1-81083)]
-6. Generative calibration for in-context learning [[paper](https://arxiv.org/abs/2310.10266)]
+6. ChatRWKV PC [[project](https://github.com/mosterwei13/ChatRWKV_PC)]
 7. MiniRWKV-4 [[project](https://github.com/StarRing2022/MiniRWKV-4)]
 8. RAG system for RWKV [[project](https://github.com/AIIRWKV/RWKV-RAG)]
 9. Dlip-RWKV [[project](https://github.com/StarRing2022/Dlip-RWKV)]
@@ -315,8 +317,7 @@ In this paper, we have assembled 17 benchmark tests, each highlighting distinct 
 45. Transplant the RWKV-LM to ROCm platform [[project](https://github.com/Alic-Li/RWKV-LM-AMD-Radeon-ROCm-hip)]
 46. A deep learning engine that can be built into your video game [[project](https://github.com/SingingRivulet/InnerDNN)]
 47. EasyChat Q&A System [[project](https://github.com/Ow1onp/EasyChat-Server)]
-48. ChatRWKV PC [[project](https://github.com/mosterwei13/ChatRWKV_PC)]
-49. PlantFlower Datasets: Based on the RWKV World model dataset [[project](https://github.com/lovebull/PlantFlowerDatasets)]
+48. PlantFlower Datasets: Based on the RWKV World model dataset [[project](https://github.com/lovebull/PlantFlowerDatasets)]
 
 ## Contributing
 
@@ -343,3 +344,7 @@ If you find this project useful in your research or work, please consider citing
 ```
 
 ## Acknowledgements
+
+1. Christian Zhou-Zheng ([@christianazinn](https://github.com/christianazinn)) for [PR#1](https://github.com/MLGroupJLU/RWKV-Survey/pull/1).
+
+
