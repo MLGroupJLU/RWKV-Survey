@@ -23,6 +23,11 @@ The papers are organized according to our survey: [A Survey of RWKV](https://arx
 
 Related projects:
 
+- StyleRWKV: [[High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture](https://arxiv.org/abs/2412.19535)]
+- L3TC: [[Leveraging RWKV for Learned Lossless Low-Complexity Text Compression](https://arxiv.org/abs/2412.16642)]
+- PCF-RWKV: [[Product Carbon Footprint Estimation System Based on Large Language Model](https://www.preprints.org/manuscript/202412.1705/v1)]
+- RWKV-edge: [[Deeply Compressed RWKV for Resource-Constrained Devices](https://arxiv.org/abs/2412.10856)]
+- RWKV-DPA: [[Linear Attention Based Channel Estimation Scheme for V2X Communications](https://ieeexplore.ieee.org/document/10779439)]
 - RWKV-SpeechChat: [[A real-time dialogue script based on a frozen 3B RWKV model with trained adapters and initial states.](https://github.com/AGENDD/RWKV-SpeechChat)]
 - RWKV-IR: [[Exploring Real&Synthetic Dataset and Linear Attention in Image Restoration](https://arxiv.org/abs/2412.03814)]
 
@@ -195,6 +200,7 @@ Related projects:
 18. Exploring real&synthetic dataset and linear attention in image restoration [[paper](https://arxiv.org/abs/2412.03814)]
 19. Facial Expression Recognition with RWKV Architecture [[project](https://github.com/lukasVierling/FaceRWKV)]
 20. Image denoising model based on rwkv [[project](https://github.com/lll143653/rwkv-denoise)]
+21. StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture[[paper](https://arxiv.org/abs/2412.19535)]
 
 ### Audio and Music Tasks
 
@@ -318,6 +324,10 @@ In this paper, we have assembled 17 benchmark tests, each highlighting distinct 
 46. A deep learning engine that can be built into your video game [[project](https://github.com/SingingRivulet/InnerDNN)]
 47. EasyChat Q&A System [[project](https://github.com/Ow1onp/EasyChat-Server)]
 48. PlantFlower Datasets: Based on the RWKV World model dataset [[project](https://github.com/lovebull/PlantFlowerDatasets)]
+49. Linear Attention Based Channel Estimation Scheme for V2X Communications[[paper](https://ieeexplore.ieee.org/document/10779439)]
+50. RWKV-edge: Deeply Compressed RWKV for Resource-Constrained Devices[[paper](https://arxiv.org/abs/2412.10856)]
+51. PCF-RWKV: Product Carbon Footprint Estimation System Based on Large Language Model[[paper](https://www.preprints.org/manuscript/202412.1705/v1)]
+52. L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression[[paper](https://arxiv.org/abs/2412.16642)]
 
 ## Contributing
 
