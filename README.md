@@ -64,6 +64,7 @@ Related projects:
 
 ## News and updates
 
+- [5/1/2024] The second version of the paper has been released on arXiv, with the addition of the "Audio and Music Tasks" chapter.
 - [19/12/2024] The first version of the paper is released on arXiv: [A Survey of RWKV](https://arxiv.org/abs/2412.14847).
 
 ## RWKV
